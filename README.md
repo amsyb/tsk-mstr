@@ -1,0 +1,1 @@
+Monorepo structure with React client and Express REST API server.
